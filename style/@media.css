@@ -1,3 +1,7 @@
-body{
-    background-color: red;
+ .menupc{
+        display: none;
+}
+    
+.menumobile{
+        display: flex;
 }
